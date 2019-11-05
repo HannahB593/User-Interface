@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5 {
 	text-align: left; 
 	margin: auto;
 	padding: 20px;
+	width: 50px;
 	box-sizing: border-box;
 }
 
@@ -86,6 +87,8 @@ h1, h2, h3, h4, h5 {
 	box-sizing: border-box;
 	margin: auto;
 	padding: 20px;
+	width: 20px;
+	height: 
 }
 
 .greatIdea {
@@ -100,5 +103,12 @@ h1, h2, h3, h4, h5 {
 	font-family: 'Bangers'; 
 	letter-spacing: 1px;
     margin-bottom: 15px;
+}
+
+.content_2 {
+	border: ;
+	margin: ;
+	width: 100%
+
 }
 

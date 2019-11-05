@@ -64,3 +64,41 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.navBar{
+	background-color: none;
+	list-style-type: none; 
+	text-align: left; 
+	margin: auto;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.navBar li {
+	display: inline-block;
+	font-size: 40px; 
+	padding: 20px; 
+	margin: auto;
+	box-sizing: border-box;
+	
+}
+
+.logo {
+	box-sizing: border-box;
+	margin: auto;
+	padding: 20px;
+}
+
+.greatIdea {
+	margin:
+	padding:
+	border: 
+	box-sizing: border-box;
+
+}
+
+.h2 {
+	font-family: 'Bangers'; 
+	letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
